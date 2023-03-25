@@ -1,0 +1,18 @@
+.mainBg{
+    background-color: rgb(54, 53, 56, 0.8);
+    top: -5rem;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.centerText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.centerText .heroText{
+    color: aliceblue;
+}
+    
