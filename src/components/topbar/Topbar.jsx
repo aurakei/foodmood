@@ -1,5 +1,6 @@
 import React from 'react'
 import "./topbar.css"
+import {SearchOutlined} from "@ant-design/icons"
 
 export default function Topbar() {
   return (
@@ -9,11 +10,7 @@ export default function Topbar() {
               <div className="topLeft">
                   <span className="logo">Food Mood</span>
               </div>
-              <div className="topbarCenter">
-                  <div className="searchBar">
-                      <span className="searchInput"></span>
-                  </div>
-              </div>
+              
               <div className="topbarRight">
                   Profile
               </div>

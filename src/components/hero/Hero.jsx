@@ -6,6 +6,7 @@ export default function Hero() {
     <div className='mainBg'>
         <div className="centerText">
             <h2 className="heroText">What Is Your Mood Today...</h2>
+            
          </div>
     </div>
   )
