@@ -5,9 +5,11 @@ export default function Hero() {
   return (
     <div className='mainBg'>
         <div className="centerText">
-            <h2 className="heroText">What Is Your Mood Today...</h2>
             
+            <h2 className="heroText">What Is Your Mood Today...</h2><br />
          </div>
+
+        
     </div>
   )
 }

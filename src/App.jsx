@@ -1,4 +1,5 @@
 import Hero from "./components/hero/Hero"
+import Sidebar from "./components/sidebar/Sidebar"
 import Home from "./pages/Homepage/Home"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Home />
       <Hero />
+      <Sidebar />
     </div>
   )
 }

@@ -28,6 +28,7 @@
 .centerText .heroText{
     color: aliceblue;
     font-size: 3.4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .topbarCenter{
     flex: 5;
