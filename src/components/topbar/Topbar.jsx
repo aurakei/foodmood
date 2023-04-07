@@ -14,7 +14,9 @@ export default function Topbar() {
                       <span className="searchInput"></span>
                   </div>
               </div>
-              <div className="topbarRight">Profile</div>
+              <div className="topbarRight">
+                  Profile
+              </div>
           </div>
       </div>
 

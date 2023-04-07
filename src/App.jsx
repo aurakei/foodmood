@@ -1,5 +1,5 @@
 import Hero from "./components/hero/Hero"
-import Home from "./pages/home"
+import Home from "./pages/Homepage/Home"
 
 function App() {
 
