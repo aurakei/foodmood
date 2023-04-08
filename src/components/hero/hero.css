@@ -26,7 +26,7 @@
     height: 100vh;
 }
 .centerText .heroText{
-    color: aliceblue;
+    color: rgb(141, 196, 243);
     font-size: 3.4rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
